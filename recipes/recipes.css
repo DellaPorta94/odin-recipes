@@ -1,0 +1,36 @@
+/*
+CSS for the index
+*/
+body{
+    background-color: lemonchiffon;
+}
+
+.odin__recipes{
+    background-color: palegoldenrod;
+    color: black;
+    text-align: center;
+}
+
+.list{
+    background-color: brown;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.list__link{
+    color: black;
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/*
+CSS for the lasagna.html
+*/
+
+#lasagna{
+    color: blue;
+    background-color: aquamarine;
+}
+
