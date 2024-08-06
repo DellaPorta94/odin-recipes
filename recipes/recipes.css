@@ -8,7 +8,139 @@ body{
 }
 
 #lasagna{
-    color: blue;
-    background-color: brown;
+    color: darkred;
+    text-align: center;
+    font-weight: 700;
 }
 
+.description{
+    color: tomato;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.para{
+    font-weight: 600;
+}
+
+.para__des{
+    color: black;
+}
+
+
+#ingredients{
+    color: tomato;
+    font-weight: 700;
+}
+
+.unlist{
+    color: black;
+    font-size: medium;
+    font-weight: 700;
+}
+
+#pasta{
+    color: tomato;
+    font-weight: 700;
+}
+
+.pa_list{
+    color: black;
+    font-weight: 700;
+}
+
+#bechamel{
+    color: tomato;
+    font-weight: 700;
+}
+
+.be_list{
+    color: black;
+    font-weight: 700;
+}
+
+.step,
+.ragu,
+.dough,
+.sauce,
+.finally{
+    color: red;
+    font-weight: 700;
+}
+
+.ra_list,
+.do_list,
+.sa_list,
+.fin_list{
+    color: black;
+    font-weight: 700;
+}
+
+/*
+CSS for the pancakes.html
+*/
+
+#pancakes{
+    color: peru;
+    font-weight: 700;
+}
+
+.des,
+.ing,
+.Step,
+.serving{
+    color: goldenrod;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.para_pan{
+    color: black;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.pan_list{
+    color: black;
+    font-weight: 600;
+    font-style: oblique;
+}
+
+.step_list,
+.para_serving,
+.topings{
+    color: black;
+    font-weight: 600;
+    font-style: inherit;
+}
+
+/*
+CSS for the pancakes.html
+*/
+
+#king{
+    color: salmon;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.para_king{
+    color: black;
+    font-style: oblique;
+    font-weight: 700;
+}
+
+.descrip,
+.ingred,
+.step_by{
+    color: saddlebrown;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.ingred_ulist,
+.step_olist{
+    color: black;
+    font-weight: 500;
+    font-style: oblique;
+}
